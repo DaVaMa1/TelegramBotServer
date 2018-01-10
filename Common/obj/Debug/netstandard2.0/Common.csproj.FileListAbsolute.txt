@@ -1,0 +1,9 @@
+D:\RaspberryPi\TelegramBotServer\Common\bin\Debug\netstandard2.0\Common.deps.json
+D:\RaspberryPi\TelegramBotServer\Common\bin\Debug\netstandard2.0\Common.dll
+D:\RaspberryPi\TelegramBotServer\Common\bin\Debug\netstandard2.0\Common.pdb
+D:\RaspberryPi\TelegramBotServer\Common\obj\Debug\netstandard2.0\Common.csprojResolveAssemblyReference.cache
+D:\RaspberryPi\TelegramBotServer\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+D:\RaspberryPi\TelegramBotServer\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+D:\RaspberryPi\TelegramBotServer\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+D:\RaspberryPi\TelegramBotServer\Common\obj\Debug\netstandard2.0\Common.dll
+D:\RaspberryPi\TelegramBotServer\Common\obj\Debug\netstandard2.0\Common.pdb
